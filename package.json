@@ -1,0 +1,30 @@
+{
+  "name": "runtastic-unofficial-api",
+  "version": "0.0.9",
+  "description": "runtastic unofficial api access",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "example": "node ./example/example.js"
+  },
+  "keywords": [
+    "runtastic",
+    "sports",
+    "unofficial",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanekotic/runtastic-unofficial-api.git"
+  },
+  "author": "kanekotic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanekotic/runtastic-unofficial-api/issues"
+  },
+  "homepage": "https://github.com/kanekotic/runtastic-unofficial-api#readme",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "request": "^2.79.0"
+  }
+}
