@@ -1,4 +1,4 @@
-# ![logomakr_7drp6q](https://cloud.githubusercontent.com/assets/3071208/22858608/36797c5e-f088-11e6-9821-ad926355ff05.png)
+# ![logomakr_4dzqyb](https://cloud.githubusercontent.com/assets/3071208/23109294/74bb4208-f6dd-11e6-9f09-24e7ac0d9d28.png)
 
 This is a promise based unofficial runtastic api.
 
@@ -180,7 +180,7 @@ The result of the promise will be if failed the error that caused it and if succ
 
 ### Logo 
 
-Sport graphic by <a href="http://www.flaticon.com/authors/webalys">Webalys</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
+Sports graphic by <a href="http://www.flaticon.com/authors/freepik">Freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
 
 ## Disclaimer, legalese and everything else.
 
