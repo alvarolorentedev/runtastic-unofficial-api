@@ -22,7 +22,12 @@ runtastic.authenticate(params)
         sessions = result
         return result
     })
-    .then((result)=>{ return runtastic.workout(user, sessions[0],{authToken : token, user : user})})
+    .then((result)=>{ return runtastic.workout.get(user, sessions[0],{authToken : token, user : user})})
+    .then((result) => {
+        console.log(result)
+        return result
+    })
+    .then((result)=>{ return runtastic.workout.set(user, undefined ,{authToken : token, user : user})})
     .then((result) => {
         console.log(result)
         return result
