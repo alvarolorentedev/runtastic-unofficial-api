@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node .",
+    "test": "echo not implemented",
     "example": "node ./example/example.js"
   },
   "keywords": [
