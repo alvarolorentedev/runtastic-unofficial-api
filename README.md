@@ -1,5 +1,7 @@
 # ![logomakr_4dzqyb](https://cloud.githubusercontent.com/assets/3071208/23109294/74bb4208-f6dd-11e6-9f09-24e7ac0d9d28.png)
 
+## Disclaimer: I did this unoficial api 5 years ago the API might or might not still published
+
 This is a promise based unofficial runtastic api.
 
 ## installation 
